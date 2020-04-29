@@ -8,5 +8,9 @@
 |Titter|@GuoxiDai|
 |Facebook|Guoxi Dai|
 
-
+|科目|链接|
+|----|:---:|
+|数学分析|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|Python|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
+|离散数学|[![csdn-logo]][csdn]|
 
