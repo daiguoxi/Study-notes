@@ -14,4 +14,4 @@
 |Python|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
 |离散数学|[![csdn-logo]][csdn]|
 
-[weibo-logo]:/Study-notes/44.png
+[weibo-logo]:https://github.com/daiguoxi/Study-notes/blob/master/44.png
