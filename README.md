@@ -1,7 +1,9 @@
 # 本科学习笔记
-|作者|果冻虾仁|
+|作者|懒松鼠|
 |---|---
-|知乎|[![zhihu-shield]][zhihu]
-|公众号|编程往事
+|B站|[![蓝芒松鼠]]
+|公众号|蓝芒松鼠
+|邮箱|daiguoxi@gmail.com
+|博客园|懒松鼠博客园
 
 [zhihu]:https://www.zhihu.com/people/guodongxiaren "我的知乎，欢迎关注"
