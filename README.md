@@ -11,7 +11,7 @@
 |Python|数据结构|数学分析|
 |----|---|---|
 |[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
-|离散数学|高等代数|随笔|
+|离散数学|高等代数|大学英语|
 |[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
 
 
