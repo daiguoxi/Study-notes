@@ -8,9 +8,9 @@
 |Titter|@GuoxiDai|
 |Facebook|Guoxi Dai|
 
-|数学分析|Python|
-|----|---|
-|[![weibo-logo]](http://weibo.com/linpiaochen)|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|数学分析|Python|数据结构|
+|----|---|---|
+|[![weibo-logo]](http://weibo.com/linpiaochen)|[![weibo-logo]](http://weibo.com/linpiaochen)|[![weibo-logo]](http://weibo.com/linpiaochen)|
 
 
 [weibo-logo]:https://github.com/daiguoxi/Study-notes/blob/master/44.png
