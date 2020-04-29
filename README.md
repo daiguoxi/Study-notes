@@ -10,9 +10,9 @@
 
 |数学分析|Python|数据结构|
 |----|---|---|
-|[![weibo-logo]](https://github.com/daiguoxi/Python-study-notes)|[![weibo-logo]](https://github.com/daiguoxi/Python-study-notes)|[![weibo-logo]](https://github.com/daiguoxi/Python-study-notes)|
+|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
 |数学分析|Python|数据结构|
-|[![weibo-logo]](https://github.com/daiguoxi/Python-study-notes)|[![weibo-logo]](https://github.com/daiguoxi/Python-study-notes)|[![weibo-logo]](https://github.com/daiguoxi/Python-study-notes)|
+|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
 
 
 [weibo-logo]:https://github.com/daiguoxi/Study-notes/blob/master/44.png
