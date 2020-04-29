@@ -8,10 +8,10 @@
 |Titter|@GuoxiDai|
 |Facebook|Guoxi Dai|
 
-|数学分析|Python|数据结构|
+|Python|数据结构|数学分析|
 |----|---|---|
 |[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
-|数学分析|Python|数据结构|
+|离散数学|高等代数|随笔|
 |[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
 
 
