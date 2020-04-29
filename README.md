@@ -10,9 +10,14 @@
 
 |Python|数据结构|数学分析|
 |----|---|---|
-|[![数据结构]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
+|[![python]](python.md)|[![数据结构]](python.md)|[![数学分析]](python.md)|
 |离散数学|高等代数|大学英语|
-|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
+|[![离散数学]](python.md)|[![高等代数]](python.md)|[![大学英语]](python.md)|
 
 
-[weibo-logo]:python.png
+[python]:python.png
+[数据结构]：数据结构.png
+[数学分析]：数学分析.png
+[离散数学]：云班课.png
+[高等代数]：云班课.png
+[大学英语]：大学英语.png
