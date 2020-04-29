@@ -15,4 +15,4 @@
 |[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|[![weibo-logo]](python.md)|
 
 
-[weibo-logo]:https://github.com/daiguoxi/Study-notes/blob/master/44.png
+[weibo-logo]:python.png
