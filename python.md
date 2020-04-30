@@ -9,7 +9,7 @@ Python学习笔记（自用）
  * 判断闰年
  ```python
  def leap_year(a):
-    if ((a%4==0) and (a%100 !=0)) or (a%400==0):  #判断是否为闰年
+    if ((a%4==0) and (a%100 !=0)) or (a%400==0):  #注意：有普通闰年和世纪闰年
         return True
     else:
         return False
