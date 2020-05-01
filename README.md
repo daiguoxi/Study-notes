@@ -5,7 +5,7 @@
 |公众号|蓝芒松鼠|
 |邮箱|daiguoxi@gmail.com|
 |博客园|[懒松鼠博客园](https://www.cnblogs.com/yeu4h3uh2/)|
-|Titter|@GuoxiDai|
+|Twitter|@GuoxiDai|
 |Facebook|Guoxi Dai|
 
 |Python|数据结构|数学分析|
