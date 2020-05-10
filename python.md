@@ -16,5 +16,11 @@ from turtle import setup   或  from turtle import *
 
 import turtle as t  （其中t是别名，可以更换其他名称）
 ```
+* 字符串
+"去掉字符串两侧指定字符"对应功能是.strip()
+
+"按照指定字符分割字符串为数组"对应功能是.split()
+
+"替换字符串中特定字符"对应功能是.replace()
 
  >不断更新中...
