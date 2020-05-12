@@ -5,7 +5,7 @@ Python学习笔记（自用）
  a,b = input().split()  #读入两个数到a b中
  a,b = map(int,input().split(','))  #读入两个整数到a，b中，输入的数用逗号分隔
  a,b = map(int,input().split(' '))  #读入两个整数到a，b中，输入的数用空格分隔
- ```
+```
  * import
  ```python
  import只有三种使用方法，以turtle库为例：
@@ -15,7 +15,7 @@ import turtle
 from turtle import setup   或  from turtle import *
 
 import turtle as t  （其中t是别名，可以更换其他名称）
-```
+ ```
 * 字符串
 ```python
 "去掉字符串两侧指定字符"对应功能是.strip()
@@ -37,4 +37,5 @@ import turtle as t  （其中t是别名，可以更换其他名称）
 * 函数可以包含0个或多个return语句
 * 递归函数必须有基例 , 递归函数的基例不再进行递归 , 递归函数的基例决定递归的深度 , 每个递归函数至少存在一个基例，但可能存在多个基例。
 * 函数或类是程序的集合和抽象，文件不是。文件是数据的集合和抽象。文件是存储在辅助存储器上的数据序列。
+* 上课笔记
  >不断更新中...
