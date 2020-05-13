@@ -14,7 +14,7 @@
 |离散数学|高等代数|大学英语|
 |[![离散数学]](离散数学.md)|[![高等代数]](高等代数.md)|[![大学英语]](大学英语.md)|
 |技术随笔|||
-|[![随笔]](https://image.shutterstock.com/image-vector/software-web-development-programming-concept-600w-1122339353.jpg)|||
+|[![随笔]](44.png)|||
 
 
 [python]:python.png
@@ -23,4 +23,4 @@
 [离散数学]:云班课.png
 [高等代数]:云班课.png
 [大学英语]:大学英语.png
-
+[随笔]:44.png
