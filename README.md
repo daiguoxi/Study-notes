@@ -10,11 +10,11 @@
 
 |Python|数据结构|数学分析|
 |----|---|---|
-|[![python]](Md files\python.md)|[![数据结构]](Md files/数据结构.md)|[![数学分析]](Md files/数学分析.md)|
+|[![python]](mdfiles/python.md)|[![数据结构]](mdfiles/数据结构.md)|[![数学分析]](mdfiles/数学分析.md)|
 |离散数学|高等代数|大学英语|
-|[![离散数学]](Md files/离散数学.md)|[![高等代数]](Md files/高等代数.md)|[![大学英语]](Md files/大学英语.md)|
+|[![离散数学]](mdfiles/离散数学.md)|[![高等代数]](mdfiles/高等代数.md)|[![大学英语]](mdfiles/大学英语.md)|
 |技术随笔|||
-|[![技术随笔]](Md files/技术随笔.md)|||
+|[![技术随笔]](mdfiles/技术随笔.md)|||
 
 
 [python]:picture/python.png
