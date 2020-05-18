@@ -17,10 +17,10 @@
 |[![技术随笔]](技术随笔.md)|||
 
 
-[python]:python.png
-[数据结构]:数据结构.png
-[数学分析]:数学分析.png
-[离散数学]:云班课.png
-[高等代数]:云班课.png
-[大学英语]:大学英语.png
-[技术随笔]:技术5.png
+[python]:picture/python.png
+[数据结构]:picture/数据结构.png
+[数学分析]:picture/数学分析.png
+[离散数学]:picture/云班课.png
+[高等代数]:picture/云班课.png
+[大学英语]:picture/大学英语.png
+[技术随笔]:picture/技术5.png
