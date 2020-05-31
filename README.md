@@ -8,7 +8,7 @@
 |Twitter|@GuoxiDai|
 |Facebook|Guoxi Dai|
 
-|Python|数据结构|数学分析|
+|Python|C语言&数据结构|数学分析|
 |----|---|---|
 |[![python]](mdfiles/python.md)|[![数据结构]](mdfiles/数据结构.md)|[![数学分析]](mdfiles/数学分析.md)|
 |离散数学|高等代数|大学英语|
