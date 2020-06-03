@@ -13,6 +13,7 @@ D:\Users\Administrator\PycharmProjects\GUI>pyuic5 -o x.py x.ui
 
 D:\Users\Administrator\PycharmProjects\GUI>
 ```
+其中`D:\Users\Administrator\PycharmProjects\GUI`为文件`x.py`的所在路径
 * range函数，代表生成一系列数，如果range(0,6,`1`)，意思就是从0开始，到6结束（不包括6），每次增加1（也就是步长为1），生成一个数组，结果就是\[0,1,2,3,4,5\](虽简单，但建议以后都加第三个参数，以免时间久了就忘了)
 * 感觉不错的输入
 ```python
