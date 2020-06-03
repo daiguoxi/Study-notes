@@ -1,6 +1,6 @@
 Python学习笔记（自用）
 =======
-* ui文件转py
+* ui文件转py(x为文件名)
 ```
 Microsoft Windows [Version 10.0.14393]
 (c) 2016 Microsoft Corporation。保留所有权利。
@@ -9,7 +9,9 @@ C:\Users\Administrator>d:
 
 D:\>cd Users\Administrator\PycharmProjects\GUI
 
-D:\Users\Administrator\PycharmProjects\GUI>uic -o t_01.py x.ui
+D:\Users\Administrator\PycharmProjects\GUI>pyuic5 -o x.py x.ui
+
+D:\Users\Administrator\PycharmProjects\GUI>
 ```
 * range函数，代表生成一系列数，如果range(0,6,`1`)，意思就是从0开始，到6结束（不包括6），每次增加1（也就是步长为1），生成一个数组，结果就是\[0,1,2,3,4,5\](虽简单，但建议以后都加第三个参数，以免时间久了就忘了)
 * 感觉不错的输入
