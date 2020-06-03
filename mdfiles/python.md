@@ -1,6 +1,6 @@
 Python学习笔记（自用）
 =======
-* 在cmd中把ui文件转成py(前提：安装pyqt5和pyqt5-tools;x为文件名;也可以在Pycharm中添加这个工具)好没有主函数
+* 在cmd中把ui文件转成py(前提：安装pyqt5和pyqt5-tools;x为文件名;也可以在Pycharm中添加这个工具)好像没有主函数
 ```
 Microsoft Windows [Version 10.0.14393]
 (c) 2016 Microsoft Corporation。保留所有权利。
