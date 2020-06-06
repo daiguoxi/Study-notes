@@ -1,5 +1,18 @@
 Python学习笔记（自用）
 =======
+* 分割字符串并存为csv文件
+'''python
+import pandas as pd
+str = "dl22 张三  李四  息哥  懒松鼠"
+str_list = str.split()
+name = ['学生姓名']
+test = pd.DataFrame(columns=name,data=str_list)
+path_1 = "C:\\Users\\Administrator\\Desktop\\test1.csv"
+path_2 = path_1.replace("\\","/")
+print(path_2)
+test.to_csv(path_2)
+
+'''
 * 在cmd中把ui文件转成py(前提：安装pyqt5和pyqt5-tools;x为文件名;也可以在Pycharm中添加这个工具)好像没有主函数
 ```
 Microsoft Windows [Version 10.0.14393]
