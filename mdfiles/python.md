@@ -1,5 +1,20 @@
 Python学习笔记（自用）
 =======
+* 解除云班课视频限制
+```python
+import requests
+def cookie_to_dic(cookie):
+    return {item.split('=')[0]: item.split('=')[1] for item in cookie.split('; ')}
+cookie="_uab_collina=159048125601474951215473; login_token=d79a7bb97ed6bc96f66a563dfbb5b26d85ed2f43be297d11203d2bc8cfb1a391; _ga=GA1.2.215999139.1591430804; _gid=GA1.2.1794318999.1591430804; acw_tc=2f624a7515914322935547549e2462cc210a7ba9aab44217ea077a45b2c43c; teachweb=e57ff98cea8160a9f28a4554d6b1e3ecb2da959d; SERVERID=aa93d3f37c880aa9b372ac3493efb185|1591432582|1591430408"
+dict2={'clazz_course_id':'3C69F064-6E41-4121-981E-B05346CC1022','res_id':'C0CC6B6A-469D-4CB5-846D-5884F419BED7','watch_to':'22','duration':'22','current_watch_to':'22'}
+cookie_2=cookie_to_dic(cookie)
+
+url = "https://www.mosoteach.cn/web/index.php?c=res&m=save_watch_to"
+r=requests.post(url,cookies=cookie_2,data=dict2)
+print(r.text)
+print(r.status_code)
+```
+
 * 分割字符串并存为csv文件
 ```python
 import pandas as pd
