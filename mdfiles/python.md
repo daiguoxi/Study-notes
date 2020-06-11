@@ -1,5 +1,26 @@
 Python学习笔记（自用）
 =======
+* 调用Google翻译API方式
+通过调用googletrans的库我们可以通过以下的python代码实现对一段文本的翻译。首先导入googletrans库，第3行实例化一个翻译对象，其中参数service_urls设置为谷歌翻译的网址。第5行调用translate方法获得翻译结果，其中参数source为需要翻译的文本，src为待翻译的文本的语言类型（这里设置为中文），dest为翻译成的文本语言类型（这里设置为英文），获取翻译结果中的文本类型作为最终翻译结果输出。
+```python
+# -*- coding: utf-8 -*-
+from googletrans import Translator
+translator = Translator(service_urls=['translate.google.cn'])
+source = '懒松鼠'
+text = translator.translate(source,src='zh-cn',dest='en').text
+print(text)
+# >Lazy Squirrel
+```
+
+* 通过如下代码可实现语言类型识别，如输入s1输出zh（表示为中文）：
+```python
+from langid import classify
+s1 = "懒松鼠"
+array = classify(s1)
+print (array[0])
+# > zh
+```
+
 * 解除云班课视频限制
 ```python
 import requests
