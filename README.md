@@ -1,10 +1,10 @@
 # 本科学习笔记
-|作者|懒松鼠|
+|作者|DGX|
 |---|---|
-|B站|[蓝芒松鼠](https://space.bilibili.com/449154488)|
-|公众号|蓝芒松鼠|
+|B站|[DGX杂学](https://space.bilibili.com/449154488)|
+|公众号|DGX杂学|
 |邮箱|daiguoxi@gmail.com|
-|博客园|[懒松鼠博客园](https://www.cnblogs.com/yeu4h3uh2/)|
+|博客园|[DGX博客园](https://www.cnblogs.com/yeu4h3uh2/)|
 |Twitter|@GuoxiDai|
 |Facebook|Guoxi Dai|
 
